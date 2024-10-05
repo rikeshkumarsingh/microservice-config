@@ -1,6 +1,4 @@
-spring:
-   application:
-     name: default-config
+
 eureka:
   instance:
     prefer-ip-address: true  # The service will prefer its IP address for registration
